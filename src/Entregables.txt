@@ -1,0 +1,16 @@
+Minutas clase
+
+equipoPapas
+
+PROPUESTA DE NUEVO PROYECTO : TORRENTS
+PROPUSE TORRENT CLIENT (Busqueda de info clave para el proyecto)
+
+DIJKSTRA EN EL SIMULADOR PANDEMICO
+
+PRIM TMB
+
+HUFFMAN PARA EL SIMULADOR Y COMPRESION DE DATOS
+
+
+
+https://github.com/davsm7
